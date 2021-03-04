@@ -1,0 +1,6 @@
+#https://www.youtube.com/watch?v=btG_hk4TSbE
+#https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
+[[redirects]]
+    from = "/*"
+    to = "/index.html"
+    status = 200

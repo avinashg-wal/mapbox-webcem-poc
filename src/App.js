@@ -4,9 +4,9 @@ import "./App.css";
 
 mapboxgl.accessToken = `${process.env.REACT_APP_MAPBOX_TOKEN}`;
 const LNG = "-122.448161557232595";
-//-122.448161557232595
+//-122.448161557232595 CL
 const LAT = "37.675936104929932";
-//37.675936104929932
+//37.675936104929932 CL
 const ZOOM = 16;
 
 function Map() {
